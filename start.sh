@@ -1,2 +1,2 @@
-javac /src/main/java/Main.java
+javac Main.java
 javac Main
